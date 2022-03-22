@@ -65,7 +65,7 @@ public class VisitorPage extends Testbase{
 		//upfile
 		Utilities.mouseclick(upfile);
 		Utilities.fileupload(vd[7]);
-		closebutton.click();
+		
 		
 		
 		
